@@ -1,4 +1,5 @@
 {
+  "Gradle_751": "https://github.com/AIDEStudio/AIDEStudio/releases/download/gradle_res/Gradle_7.5.1.tar.xz",
   "Gradle_NDK_v17": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_17.2.4988734.tar.xz",
   "Gradle_NDK_v21": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_21.0.6113669.tar.xz",
   "Gradle_NDK_v24": "https://github.com/goxome/aide-studio/releases/download/ndk_res/ndk_gradle_24.0.8215888.tar.xz",
