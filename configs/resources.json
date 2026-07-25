@@ -1,6 +1,7 @@
 {
   "All": {
-    "allsdkGradle_751": "https://github.com/aidestudio/aidestudio/releases/download/gradle_res/Gradle_7.5.1.tar.xz"
+    "SDKAllGradle_751": "https://github.com/aidestudio/aidestudio/releases/download/gradle_res/sdkall_gradle_7.5.1_2.tar.xz
+"
   },
   "Gradle_NDK": {
     "Gradle_NDK_v17": "https://github.com/aidestudio/aidestudio/releases/download/ndk_res/ndk_gradle_17.2.4988734.tar.xz",
