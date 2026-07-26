@@ -1,11 +1,32 @@
-{"code":200,"msg":"success","time":0,
-"data":{
-"versionCode":3600,
-"versionName":"3.6.0",
-"minVersion":1,
-"targetVersion":3600,
-"updateLog":"* Optimize software stability *\n* Optimize software stability *\n* Optimize software stability *",
-"updateTime":0,"debug":0,"developer":"test",
-"downloadUrl":"https://"
-}
+{
+  "classic": {
+    "versionCode": 3600,
+    "versionName": "3.6.0",
+    "minVersion": 1,
+    "targetVersion": 3600,
+    "updateLog": "* Classic version features\n* Lightweight and fast",
+    "updateTime": 1722009600,
+    "downloadUrl": "https://",
+    "fileSize": 15678945
+  },
+  "normal": {
+    "versionCode": 3600,
+    "versionName": "3.6.0-Normal",
+    "minVersion": 1,
+    "targetVersion": 3600,
+    "updateLog": "* Normal version features\n* All standard features",
+    "updateTime": 1722009600,
+    "downloadUrl": "https://",
+    "fileSize": 20485632
+  },
+  "pro": {
+    "versionCode": 3600,
+    "versionName": "3.6.0-Pro",
+    "minVersion": 1,
+    "targetVersion": 3600,
+    "updateLog": "* Pro version features\n* Premium features unlocked\n* Advanced tools",
+    "updateTime": 1722009600,
+    "downloadUrl": "https://",
+    "fileSize": 28945678
+  }
 }
