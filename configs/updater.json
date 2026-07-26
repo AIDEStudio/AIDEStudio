@@ -1,9 +1,9 @@
 {"code":200,"msg":"success","time":0,
 "data":{
-"versionCode":3300,
-"versionName":"3.3.0",
+"versionCode":3600,
+"versionName":"3.6.0",
 "minVersion":1,
-"targetVersion":3300,
+"targetVersion":3600,
 "updateLog":"* Optimize software stability *\n* Optimize software stability *\n* Optimize software stability *",
 "updateTime":0,"debug":0,"developer":"test",
 "downloadUrl":"https://"
